@@ -1,0 +1,74 @@
+market-trading-processor/HELP.md
+market-trading-processor/target/
+!market-trading-processor/.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+market-trading-processor/.apt_generated
+market-trading-processor/.classpath
+market-trading-processor/.factorypath
+market-trading-processor/.project
+market-trading-processor/.settings
+market-trading-processor/.springBeans
+market-trading-processor/.sts4-cache
+
+### IntelliJ IDEA ###
+market-trading-processor/.idea
+market-trading-processor/*.iws
+market-trading-processor/*.iml
+market-trading-processor/*.ipr
+
+### NetBeans ###
+/market-trading-processor/nbproject/private/
+/market-trading-processor/nbbuild/
+/market-trading-processor/dist/
+/market-trading-processor/nbdist/
+/market-trading-processor/.nb-gradle/
+market-trading-processor/build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+
+
+# compiled output
+/market-trading-processor-frontend/dist
+/market-trading-processor-frontend/tmp
+/market-trading-processor-frontend/out-tsc
+# Only exists if Bazel was run
+/market-trading-processor-frontend/bazel-out
+
+# dependencies
+/market-trading-processor-frontend/node_modules
+
+# profiling files
+/market-trading-processor-frontend/chrome-profiler-events*.json
+/market-trading-processor-frontend/speed-measure-plugin*.json
+
+# IDEs and editors
+/market-trading-processor-frontend/.idea
+/market-trading-processor-frontend/.project
+/market-trading-processor-frontend/.classpath
+/market-trading-processor-frontend/.c9/
+/market-trading-processor-frontend/*.launch
+/market-trading-processor-frontend/.settings/
+/market-trading-processor-frontend/*.sublime-workspace
+
+# IDE - VSCode
+/market-trading-processor-frontend/.vscode/*
+!/market-trading-processor-frontend/.vscode/settings.json
+!/market-trading-processor-frontend/.vscode/tasks.json
+!/market-trading-processor-frontend/.vscode/launch.json
+!/market-trading-processor-frontend/.vscode/extensions.json
+/market-trading-processor-frontend/.history/*
+
+# misc
+/market-trading-processor-frontend/.sass-cache
+/market-trading-processor-frontend/connect.lock
+/market-trading-processor-frontend/coverage
+/market-trading-processor-frontend/libpeerconnection.log
+/market-trading-processor-frontend/npm-debug.log
+/market-trading-processor-frontend/yarn-error.log
+/market-trading-processor-frontend/testem.log
+/market-trading-processor-frontend/typings
+
