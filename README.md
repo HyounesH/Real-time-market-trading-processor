@@ -5,7 +5,7 @@ You should install maven3+ and java11+ in your machine and add them to classpath
 
 
 ##Backend start
-* Clone the frontend `git clone ...`
+* Clone the frontend `git clone https://github.com/HyounesH/Real-time-market-trading-processor.git`
 * go the app folder `cd market-trading-processor/market-trading-processor-backend`
 * run the command `mvn clean install`
 * run Spring boot app `mvn spring-boot:run` or open the spring boot intellij and run it manually.
